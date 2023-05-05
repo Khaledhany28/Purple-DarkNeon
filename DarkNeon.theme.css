@@ -14,12 +14,9 @@
 @import url('https://commandcrafterhd.github.io/DiscordDarkNeon/mainRewrite.css');
 /* ^ This is the main Import ^ DO NOT TOUCH. Without this, the theme won't load!!! */
 
-@import url('https://commandcrafterhd.github.io/DiscordDarkNeon/css/hideUsers.css');
-/* This import adds the collapsible user-list. Remove it/comment it out to disable that feature */
-
 /* CUSTOMIZE COLORS IN HERE! */
 :root {
-  --rgb-highlight: 4, 217, 255; /* The main highlight color */
+  --rgb-highlight: 170, 29, 181; /* The main highlight color */
   --rgb-background: 0, 0, 0; /* The main background color */
   --rgb-text: 197, 200, 198; /* The main text color */
   --rgb-close-button: 212, 18, 39; /* The main "close this" or "deny" color */
